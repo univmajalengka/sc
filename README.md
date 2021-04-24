@@ -33,22 +33,30 @@ Penggunaan metode Searching :
 1. Blind Search
 2. Heuristik Search
 
+[[Materi 2]](02_searching.pdf)
+
 ## 3. Reasoning
 Penggunaan metode Reasoning :
 1. Propotional Logic
 2. First Order Logic
 3. Fuzzy System
 
+[[Materi 3]](03_reasoning.pdf)
+
 ## 4. Planning
 Penggunaan metode Planning:
 1. Goal Stack Planning
 2. Constraint Posting
+
+[[Materi 4]](04_planning.pdf)
 
 ## 5. Learning
 Penggunaan metode Learning:
 1. Decision Tree Learning
 2. Jaringan Syaraf Tiruan
 3. Algoritma Genetika
+
+[[Materi 5]](05_learning.pdf)
 
 ## 6. Studi Kasus Sistem Cerdas
 Aplikasi AI serta pendekatan yang dapat diaplikasikan serta implementasi dalam program
