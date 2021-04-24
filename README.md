@@ -1,4 +1,3 @@
-# course
 # Preamble
 This repository contains the lecture slides and course description for the Sistem Cerdas course offered by Prodi Informatika at the Universitas Majalengka. 
 
@@ -29,25 +28,25 @@ Definisi AI,  Sejarah AI, dan AI saat ini dan Masa Depan
 
 ## 2. Searching
 Penggunaan metode Searching :
-Blind Search
-Heuristik Search
+1. Blind Search
+2. Heuristik Search
 
 ## 3. Reasoning
 Penggunaan metode Reasoning :
-Propotional Logic
-First Order Logic
-Fuzzy System
+1. Propotional Logic
+2. First Order Logic
+3. Fuzzy System
 
 ## 4. Planning
 Penggunaan metode Planning:
-Goal Stack Planning
-Constraint Posting
+1. Goal Stack Planning
+2. Constraint Posting
 
 ## 5. Learning
 Penggunaan metode Learning:
-Decision Tree Learning
-Jaringan Syaraf Tiruan
-Algoritma Genetika
+1. Decision Tree Learning
+2. Jaringan Syaraf Tiruan
+3. Algoritma Genetika
 
 ## 6. Studi Kasus Sistem Cerdas
 Aplikasi AI serta pendekatan yang dapat diaplikasikan serta implementasi dalam program
