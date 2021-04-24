@@ -9,7 +9,7 @@ Pembahasan sistem cerdas difokuskan pada empat teknik dasar pemecahan masalah, y
 
 Suyanto, S.T. and Sc, M., 2014. Artifiacial Intelligence Searching Reasoning Planning and Learning Revisi Kedua. Penerbit Informatika, Bandung, Indonesia.
 
-This course is organised and delivered by @ardimardiana.
+This course is organised and delivered by @univmajalengka/ardimardiana.
 
 # Lecturer
 * Ardi Mardiana
