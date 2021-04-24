@@ -26,6 +26,8 @@ Each meeting will contains three sections:
 ## 1. Introduction
 Definisi AI,  Sejarah AI, dan AI saat ini dan Masa Depan
 
+[[Materi 1]](01_introduction.pdf)
+
 ## 2. Searching
 Penggunaan metode Searching :
 1. Blind Search
