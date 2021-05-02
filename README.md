@@ -36,8 +36,8 @@ Penggunaan metode Searching :
 [[Materi 2]](02_searching.pdf)
 
 ### Videos
-[[Part 1]] (https://youtu.be/ddyHL2GLJEI)
-[[Part 2]] (https://youtu.be/52CgGkSy8ow)
+[[Part 1]](https://youtu.be/ddyHL2GLJEI)  
+[[Part 2]](https://youtu.be/52CgGkSy8ow)
 
 ## 3. Reasoning
 Penggunaan metode Reasoning :
