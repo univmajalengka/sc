@@ -37,7 +37,7 @@ Penggunaan metode Searching :
 
 ### Videos
 [[Intro]](https://youtu.be/ddyHL2GLJEI)  
-[[Blind Search]](https://youtu.be/52CgGkSy8ow)
+[[Blind Search]](https://youtu.be/52CgGkSy8ow)  
 [[Heuristic Search]](https://youtu.be/L6Q5cPMkzCI)
 
 ## 3. Reasoning
