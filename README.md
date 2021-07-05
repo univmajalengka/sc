@@ -48,12 +48,19 @@ Penggunaan metode Reasoning :
 
 [[Materi 3]](03_reasoning.pdf)
 
+### Videos
+[[Intro]](https://youtu.be/trpBziU9wdw)  
+[[Propotional Logic]](https://youtu.be/If5YpzQVY7c)  
+
 ## 4. Planning
 Penggunaan metode Planning:
 1. Goal Stack Planning
 2. Constraint Posting
 
 [[Materi 4]](04_planning.pdf)
+
+### Videos
+[[Intro]](https://youtu.be/LGTz-BxSfPc) 
 
 ## 5. Learning
 Penggunaan metode Learning:
@@ -62,6 +69,9 @@ Penggunaan metode Learning:
 3. Algoritma Genetika
 
 [[Materi 5]](05_learning.pdf)
+
+### Videos
+[[Decision Tree Learning]](https://youtu.be/HPXgCr2tSj4) 
 
 ## 6. Studi Kasus Sistem Cerdas
 Aplikasi AI serta pendekatan yang dapat diaplikasikan serta implementasi dalam program
