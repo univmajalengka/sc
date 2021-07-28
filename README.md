@@ -38,7 +38,7 @@ Penggunaan metode Searching :
 ### Videos
 [[Intro]](https://youtu.be/ddyHL2GLJEI)  
 [[Blind Search]](https://youtu.be/52CgGkSy8ow)  
-[[Heuristic Search]](https://youtu.be/L6Q5cPMkzCI)
+[[Heuristic Search]](https://youtu.be/L6Q5cPMkzCI)  
 
 ## 3. Reasoning
 Penggunaan metode Reasoning :
@@ -51,6 +51,8 @@ Penggunaan metode Reasoning :
 ### Videos
 [[Intro]](https://youtu.be/trpBziU9wdw)  
 [[Propotional Logic]](https://youtu.be/If5YpzQVY7c)  
+[[First Order Logic]](https://youtu.be/Lb2FgdxZpkY)  
+[[Fuzzy Logic]](https://youtu.be/WIolNciY9Sk)  
 
 ## 4. Planning
 Penggunaan metode Planning:
@@ -60,18 +62,22 @@ Penggunaan metode Planning:
 [[Materi 4]](04_planning.pdf)
 
 ### Videos
-[[Intro]](https://youtu.be/LGTz-BxSfPc) 
+[[Intro]](https://youtu.be/LGTz-BxSfPc)  
+[[Goal Stack Planning]](https://youtu.be/KdLV48Qbgsg)  
+[[Constraint Posting]](https://youtu.be/mlXeor-cjQw)  
 
 ## 5. Learning
 Penggunaan metode Learning:
 1. Decision Tree Learning
-2. Jaringan Syaraf Tiruan
-3. Algoritma Genetika
+2. Algoritma Genetika
+3. Jaringan Syaraf Tiruan
 
 [[Materi 5]](05_learning.pdf)
 
 ### Videos
-[[Decision Tree Learning]](https://youtu.be/HPXgCr2tSj4) 
+[[Decision Tree Learning]](https://youtu.be/HPXgCr2tSj4)  
+[[Algoritma Genetika]](https://youtu.be/feJK5BOgNSk)  
+[[Jaringan Syaraf Tiruan]](https://youtu.be/m_86e346CX0)  
 
 ## 6. Studi Kasus Sistem Cerdas
 Aplikasi AI serta pendekatan yang dapat diaplikasikan serta implementasi dalam program
